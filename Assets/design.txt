@@ -1,0 +1,68 @@
+﻿==============================================================================================================================
+Themes
+==============================================================================================================================
+
+Water
+- Comet
+-
+
+
+Energy
+- White Dwarf
+- Black Hole
+- Quasar
+
+
+Current issues:
+- military should slow down growth
+--- maintainance cost - happens anyway because of building units?
+--- limitations
+
+
+RACE IDEAS
+--------------
+Acquiring sectors  uses (money, food)
+
+
+
+Military -
+------------
+- Fighter 
+- Squadron
+- Cruiser 
+- Destroyer  
+- BattleShip 
+- Torpedo-boat
+- Support
+- Boarding ship
+--------------
+- Infrastructure
+---------------
+- Academy
+- 
+-
+-
+---------------
+- Exploitation
+---------------
+- Ice field - farm 1,2,3
+- 
+- Improved farm 1,2,3
+- Improved mine 1,2,3
+- Improved farm 1,2,3
+--------------
+- Technological improvements
+---------------
+- Ship Attack +1
+- Ship HP +1
+- Ship ability
+- Ship ability
+- Ship ability
+--------------
+- Tactics - one time use
+---------------
+- Heal
+- Attack boost (big)
+- Control (unit attack themselves)
+-
+-

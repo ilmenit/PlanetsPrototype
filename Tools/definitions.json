@@ -1,0 +1,1588 @@
+{
+	"Terrains": {
+		"Gas": {
+			"Id" : "Gas",
+			"Name" : "Gas",
+			"Icon" : "G",
+			"Popularity" : 2
+		},
+		"Barren": {
+			"Id" : "Barren",
+			"Name" : "Barren",
+			"Icon" : "B",
+			"Popularity" : 2
+		},
+		"Ice": {
+			"Id" : "Ice",
+			"Name" : "Ice",
+			"Icon" : "I",
+			"Popularity" : 2
+		},
+		"Lava": {
+			"Id" : "Lava",
+			"Name" : "Lava",
+			"Icon" : "L",
+			"Popularity" : 2
+		},
+		"Minerals": {
+			"Id" : "Minerals",
+			"Name" : "Minerals",
+			"Icon" : "M",
+			"Popularity" : 2
+		},
+		"Water": {
+			"Id" : "Water",
+			"Name" : "Water",
+			"Icon" : "W",
+			"Popularity" : 2
+		},
+		"Plants": {
+			"Id" : "Plants",
+			"Name" : "Plants",
+			"Icon" : "P",
+			"Popularity" : 1
+		},
+		"Xeno": {
+			"Id" : "Xeno",
+			"Name" : "Xeno",
+			"Icon" : "X",
+			"Popularity" : 1
+		},
+		"Industrial": {
+			"Id" : "Industrial",
+			"Name" : "Industrial",
+			"Icon" : "T",
+			"Popularity" : 1
+		},
+		"City": {
+			"Id" : "City",
+			"Name" : "City",
+			"Icon" : "C",
+			"Popularity" : 1
+		}	}
+	"Goods": {
+		"Food": {
+			"Id" : "Food",
+			"Name" : "Food",
+			"Icon" : "%",
+			"Color" : 
+			{
+				"r": 0.4,
+				"g": 1.0,
+				"b": 0.4,
+				"a": 1.0
+			}
+,
+			"IsAdvanced" : false
+		},
+		"Population": {
+			"Id" : "Population",
+			"Name" : "Population",
+			"Icon" : "@",
+			"Color" : 
+			{
+				"r": 1.0,
+				"g": 1.0,
+				"b": 0.4,
+				"a": 1.0
+			}
+,
+			"IsAdvanced" : false
+		},
+		"Ore": {
+			"Id" : "Ore",
+			"Name" : "Ore",
+			"Icon" : "^",
+			"Color" : 
+			{
+				"r": 1.0,
+				"g": 0.4,
+				"b": 0.4,
+				"a": 1.0
+			}
+,
+			"IsAdvanced" : false
+		},
+		"Technology": {
+			"Id" : "Technology",
+			"Name" : "Technology",
+			"Icon" : "!",
+			"Color" : 
+			{
+				"r": 0.0,
+				"g": 1.0,
+				"b": 1.0,
+				"a": 1.0
+			}
+,
+			"IsAdvanced" : true
+		},
+		"Energy": {
+			"Id" : "Energy",
+			"Name" : "Energy",
+			"Icon" : "*",
+			"Color" : 
+			{
+				"r": 1.0,
+				"g": 0.4,
+				"b": 1.0,
+				"a": 1.0
+			}
+,
+			"IsAdvanced" : true
+		},
+		"Credits": {
+			"Id" : "Credits",
+			"Name" : "Credits",
+			"Icon" : "$",
+			"Color" : 
+			{
+				"r": 0.9019607843137255,
+				"g": 0.9019607843137255,
+				"b": 0.9019607843137255,
+				"a": 1.0
+			}
+,
+			"IsAdvanced" : true
+		}	}
+	"Races": {
+		"Mongers": {
+			"Id" : "Mongers",
+			"Name" : "Mongers"
+		},
+		"Biota": {
+			"Id" : "Biota",
+			"Name" : "Biota"
+		},
+		"Witnesses": {
+			"Id" : "Witnesses",
+			"Name" : "Witnesses"
+		},
+		"Trespassers": {
+			"Id" : "Trespassers",
+			"Name" : "Trespassers"
+		},
+		"Fragtals": {
+			"Id" : "Fragtals",
+			"Name" : "Fragtals"
+		}	}
+	"PlayerColors": {
+		"0": {
+			"Id" : "0",
+			"Color" : 
+			{
+				"r": 0.41568627450980394,
+				"g": 0.4980392156862745,
+				"b": 0.8274509803921568,
+				"a": 1.0
+			}
+
+		},
+		"1": {
+			"Id" : "1",
+			"Color" : 
+			{
+				"r": 0.8392156862745098,
+				"g": 0.6235294117647059,
+				"b": 0.16470588235294117,
+				"a": 1.0
+			}
+
+		},
+		"2": {
+			"Id" : "2",
+			"Color" : 
+			{
+				"r": 0.8470588235294118,
+				"g": 0.2980392156862745,
+				"b": 0.15294117647058825,
+				"a": 1.0
+			}
+
+		},
+		"3": {
+			"Id" : "3",
+			"Color" : 
+			{
+				"r": 0.3686274509803922,
+				"g": 0.7686274509803922,
+				"b": 0.2627450980392157,
+				"a": 1.0
+			}
+
+		},
+		"4": {
+			"Id" : "4",
+			"Color" : 
+			{
+				"r": 0.3411764705882353,
+				"g": 0.19215686274509805,
+				"b": 0.592156862745098,
+				"a": 1.0
+			}
+
+		},
+		"5": {
+			"Id" : "5",
+			"Color" : 
+			{
+				"r": 0.7254901960784313,
+				"g": 0.5176470588235295,
+				"b": 0.24705882352941178,
+				"a": 1.0
+			}
+
+		},
+		"6": {
+			"Id" : "6",
+			"Color" : 
+			{
+				"r": 0.27058823529411763,
+				"g": 0.7529411764705882,
+				"b": 0.592156862745098,
+				"a": 1.0
+			}
+
+		},
+		"7": {
+			"Id" : "7",
+			"Color" : 
+			{
+				"r": 0.3568627450980392,
+				"g": 0.7294117647058823,
+				"b": 0.403921568627451,
+				"a": 1.0
+			}
+
+		},
+		"8": {
+			"Id" : "8",
+			"Color" : 
+			{
+				"r": 0.6078431372549019,
+				"g": 0.3254901960784314,
+				"b": 0.8862745098039215,
+				"a": 1.0
+			}
+
+		},
+		"9": {
+			"Id" : "9",
+			"Color" : 
+			{
+				"r": 0.4823529411764706,
+				"g": 0.5803921568627451,
+				"b": 0.23529411764705882,
+				"a": 1.0
+			}
+
+		},
+		"10": {
+			"Id" : "10",
+			"Color" : 
+			{
+				"r": 0.8196078431372549,
+				"g": 0.2823529411764706,
+				"b": 0.7176470588235294,
+				"a": 1.0
+			}
+
+		},
+		"11": {
+			"Id" : "11",
+			"Color" : 
+			{
+				"r": 0.7372549019607844,
+				"g": 0.2901960784313726,
+				"b": 0.2627450980392157,
+				"a": 1.0
+			}
+
+		},
+		"12": {
+			"Id" : "12",
+			"Color" : 
+			{
+				"r": 0.7490196078431373,
+				"g": 0.27450980392156865,
+				"b": 0.4588235294117647,
+				"a": 1.0
+			}
+
+		},
+		"13": {
+			"Id" : "13",
+			"Color" : 
+			{
+				"r": 0.6392156862745098,
+				"g": 0.7803921568627451,
+				"b": 0.18823529411764706,
+				"a": 1.0
+			}
+
+		},
+		"14": {
+			"Id" : "14",
+			"Color" : 
+			{
+				"r": 0.7098039215686275,
+				"g": 0.4196078431372549,
+				"b": 0.7137254901960784,
+				"a": 1.0
+			}
+
+		}	}
+	"SpaceObjects": {
+		"Biomass": {
+			"Id" : "Biomass",
+			"Name" : "Biomass",
+			"TerrainType" : "Plants",
+			"Icon" : "P"
+		},
+		"Asteroids": {
+			"Id" : "Asteroids",
+			"Name" : "Asteroids",
+			"TerrainType" : "Minerals",
+			"Icon" : "M"
+		},
+		"Chondrite": {
+			"Id" : "Chondrite",
+			"Name" : "Chondrite",
+			"TerrainType" : "Barren",
+			"Icon" : "B"
+		},
+		"Space Forge": {
+			"Id" : "Space Forge",
+			"Name" : "Space Forge",
+			"TerrainType" : "Industrial",
+			"Icon" : "T"
+		},
+		"Space Station": {
+			"Id" : "Space Station",
+			"Name" : "Space Station",
+			"TerrainType" : "City",
+			"Icon" : "C"
+		},
+		"Nomads": {
+			"Id" : "Nomads",
+			"Name" : "Nomads",
+			"TerrainType" : "Xeno",
+			"Icon" : "X"
+		},
+		"Gas Dwarf": {
+			"Id" : "Gas Dwarf",
+			"Name" : "Gas Dwarf",
+			"TerrainType" : "Gas",
+			"Icon" : "G"
+		},
+		"Comet": {
+			"Id" : "Comet",
+			"Name" : "Comet",
+			"TerrainType" : "Ice",
+			"Icon" : "I"
+		}	}
+	"Units": {
+		"Privateer": {
+			"Id" : "Privateer",
+			"Name" : "Explorer / Privateer / Hawker",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : [""]
+		},
+		"Keeper": {
+			"Id" : "Keeper",
+			"Name" : "Cruiser / Keeper",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : [""]
+		},
+		"Bomber ": {
+			"Id" : "Bomber ",
+			"Name" : "Bomber ",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["DoubleEngage"]
+		},
+		"Microt(s)": {
+			"Id" : "Microt(s)",
+			"Name" : "Microt(s)",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Medium",
+			"WeaponSize" : "Small",
+			"Traits" : [""]
+		},
+		"Synchro": {
+			"Id" : "Synchro",
+			"Name" : "Synchro",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["Ranged"]
+		},
+		"Watcher": {
+			"Id" : "Watcher",
+			"Name" : "Watcher",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["FirstStrike"]
+		},
+		"Judge": {
+			"Id" : "Judge",
+			"Name" : "Judge",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "Medium",
+			"Traits" : [""]
+		},
+		"Flash": {
+			"Id" : "Flash",
+			"Name" : "Flash",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "Small",
+			"Traits" : [""]
+		},
+		"Metalive": {
+			"Id" : "Metalive",
+			"Name" : "Metalive",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "Large",
+			"Traits" : [""]
+		},
+		"Ferropolar / Diamag": {
+			"Id" : "Ferropolar / Diamag",
+			"Name" : "Ferropolar / Diamag",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Medium",
+			"WeaponSize" : "",
+			"Traits" : [""]
+		},
+		"Guardian": {
+			"Id" : "Guardian",
+			"Name" : "Guardian",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : [""]
+		},
+		"Broker": {
+			"Id" : "Broker",
+			"Name" : "Broker",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["Berserk"]
+		},
+		"Prospector": {
+			"Id" : "Prospector",
+			"Name" : "Prospector",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["Ranged","DoubleEngage"]
+		},
+		"Hammer (Slammer?)": {
+			"Id" : "Hammer (Slammer?)",
+			"Name" : "Hammer (Slammer?)",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["SideAttack"]
+		},
+		"Titan": {
+			"Id" : "Titan",
+			"Name" : "Titan",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["SpreadAttack","SideAttack","NoEngage"]
+		},
+		"Saprobiont": {
+			"Id" : "Saprobiont",
+			"Name" : "Saprobiont",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Large",
+			"WeaponSize" : "Medium",
+			"Traits" : [""]
+		},
+		"Overlord": {
+			"Id" : "Overlord",
+			"Name" : "Overlord",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Large",
+			"WeaponSize" : "Medium",
+			"Traits" : [""]
+		},
+		"Phoenix": {
+			"Id" : "Phoenix",
+			"Name" : "Phoenix",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["Stationary"]
+		},
+		"Cyclone": {
+			"Id" : "Cyclone",
+			"Name" : "Cyclone",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["Ranged","FirstStrike"]
+		},
+		"Pilgrim": {
+			"Id" : "Pilgrim",
+			"Name" : "Pilgrim",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["Ranged","SpreadAttack"]
+		},
+		"Pathogen": {
+			"Id" : "Pathogen",
+			"Name" : "Pathogen",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["Ranged","Penetrating"]
+		},
+		"Seed": {
+			"Id" : "Seed",
+			"Name" : "Seed",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Small",
+			"WeaponSize" : "",
+			"Traits" : ["TripleEngage"]
+		},
+		"Shapeshifter": {
+			"Id" : "Shapeshifter",
+			"Name" : "Shapeshifter",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "Large",
+			"WeaponSize" : "",
+			"Traits" : ["FirstStrike"]
+		},
+		"Spinner": {
+			"Id" : "Spinner",
+			"Name" : "Spinner",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "",
+			"WeaponSize" : "",
+			"Traits" : [""]
+		},
+		"Drifter": {
+			"Id" : "Drifter",
+			"Name" : "Drifter",
+			"Cost" : 0,
+			"Attack" : 0,
+			"HP" : 0,
+			"Size" : "",
+			"WeaponSize" : "",
+			"Traits" : [""]
+		}	}
+	"Buildings": {
+		"Algae Grid": {
+			"Id" : "Algae Grid",
+			"Name" : "Algae Grid",
+			"TerrainId" : "Water",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Technology",
+			"ProducesId" : "Food",
+			"ProductionMultiplier" : 1,
+			"Cost" : 2
+		},
+		"Deuterium Reactor": {
+			"Id" : "Deuterium Reactor",
+			"Name" : "Deuterium Reactor",
+			"TerrainId" : "Water",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Ore",
+			"ProducesId" : "Energy",
+			"ProductionMultiplier" : 1,
+			"Cost" : 4
+		},
+		"Settlement": {
+			"Id" : "Settlement",
+			"Name" : "Settlement",
+			"TerrainId" : "Plants",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Ore",
+			"ProducesId" : "Population",
+			"ProductionMultiplier" : 1,
+			"Cost" : 2
+		},
+		"Robo Farm": {
+			"Id" : "Robo Farm",
+			"Name" : "Robo Farm",
+			"TerrainId" : "Plants",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Technology",
+			"ProducesId" : "Food",
+			"ProductionMultiplier" : 2,
+			"Cost" : 6
+		},
+		"Mine": {
+			"Id" : "Mine",
+			"Name" : "Mine",
+			"TerrainId" : "Minerals",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Population",
+			"ProducesId" : "Ore",
+			"ProductionMultiplier" : 1,
+			"Cost" : 2
+		},
+		"Sonic Mine": {
+			"Id" : "Sonic Mine",
+			"Name" : "Sonic Mine",
+			"TerrainId" : "Minerals",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Technology",
+			"ProducesId" : "Ore",
+			"ProductionMultiplier" : 2,
+			"Cost" : 6
+		},
+		"Colony": {
+			"Id" : "Colony",
+			"Name" : "Colony",
+			"TerrainId" : "Barren",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Food",
+			"ProducesId" : "Population",
+			"ProductionMultiplier" : 1,
+			"Cost" : 2
+		},
+		"Core Drilling": {
+			"Id" : "Core Drilling",
+			"Name" : "Core Drilling",
+			"TerrainId" : "Barren",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Credits",
+			"ProducesId" : "Ore",
+			"ProductionMultiplier" : 1,
+			"Cost" : 4
+		},
+		"Factories": {
+			"Id" : "Factories",
+			"Name" : "Factories",
+			"TerrainId" : "Industrial",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Ore",
+			"ProducesId" : "Technology",
+			"ProductionMultiplier" : 1,
+			"Cost" : 2
+		},
+		"Nano Factory": {
+			"Id" : "Nano Factory",
+			"Name" : "Nano Factory",
+			"TerrainId" : "Industrial",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Energy",
+			"ProducesId" : "Technology",
+			"ProductionMultiplier" : 2,
+			"Cost" : 10
+		},
+		"Housing": {
+			"Id" : "Housing",
+			"Name" : "Housing",
+			"TerrainId" : "City",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Food",
+			"ProducesId" : "Population",
+			"ProductionMultiplier" : 2,
+			"Cost" : 2
+		},
+		"Trading post": {
+			"Id" : "Trading post",
+			"Name" : "Trading post",
+			"TerrainId" : "City",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Food",
+			"ProducesId" : "Credits",
+			"ProductionMultiplier" : 1,
+			"Cost" : 2
+		},
+		"Capital": {
+			"Id" : "Capital",
+			"Name" : "Capital",
+			"TerrainId" : "City",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Population",
+			"ProducesId" : "Credits",
+			"ProductionMultiplier" : 2,
+			"Cost" : 2
+		},
+		"Farm": {
+			"Id" : "Farm",
+			"Name" : "Farm",
+			"TerrainId" : "Xeno",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Population",
+			"ProducesId" : "Food",
+			"ProductionMultiplier" : 1,
+			"Cost" : 2
+		},
+		"Xeno Market": {
+			"Id" : "Xeno Market",
+			"Name" : "Xeno Market",
+			"TerrainId" : "Xeno",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Technology",
+			"ProducesId" : "Credits",
+			"ProductionMultiplier" : 2,
+			"Cost" : 2
+		},
+		"Power Plant": {
+			"Id" : "Power Plant",
+			"Name" : "Power Plant",
+			"TerrainId" : "Gas",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Population",
+			"ProducesId" : "Energy",
+			"ProductionMultiplier" : 1,
+			"Cost" : 2
+		},
+		"Dyson Swarm": {
+			"Id" : "Dyson Swarm",
+			"Name" : "Dyson Swarm",
+			"TerrainId" : "Gas",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Technology",
+			"ProducesId" : "Energy",
+			"ProductionMultiplier" : 2,
+			"Cost" : 10
+		},
+		"Magma Mine": {
+			"Id" : "Magma Mine",
+			"Name" : "Magma Mine",
+			"TerrainId" : "Lava",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Technology",
+			"ProducesId" : "Ore",
+			"ProductionMultiplier" : 2,
+			"Cost" : 2
+		},
+		"Foundry": {
+			"Id" : "Foundry",
+			"Name" : "Foundry",
+			"TerrainId" : "Lava",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Population",
+			"ProducesId" : "Technology",
+			"ProductionMultiplier" : 1,
+			"Cost" : 6
+		},
+		"Melt Mine": {
+			"Id" : "Melt Mine",
+			"Name" : "Melt Mine",
+			"TerrainId" : "Ice",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Energy",
+			"ProducesId" : "Ore",
+			"ProductionMultiplier" : 1,
+			"Cost" : 2
+		},
+		"Underground Outpost": {
+			"Id" : "Underground Outpost",
+			"Name" : "Underground Outpost",
+			"TerrainId" : "Ice",
+			"BuildingType" : "Standard",
+			"DemandsId" : "Technology",
+			"ProducesId" : "Population",
+			"ProductionMultiplier" : 2,
+			"Cost" : 8
+		}	}
+	"Improvements": {
+		"Interstellar Travel": {
+			"Id" : "Interstellar Travel",
+			"Name" : "Interstellar Travel",
+			"Type" : "Improvement",
+			"Description" : "Allows to acquire new space sectors"
+		},
+		"Far Scanners": {
+			"Id" : "Far Scanners",
+			"Name" : "Far Scanners",
+			"Type" : "Improvement",
+			"Description" : "Increase Explore Range"
+		},
+		"Improved Engines": {
+			"Id" : "Improved Engines",
+			"Name" : "Improved Engines",
+			"Type" : "Improvement",
+			"Description" : "Decrease Explore Cost"
+		},
+		"Preon Discovery": {
+			"Id" : "Preon Discovery",
+			"Name" : "Preon Discovery",
+			"Type" : "Improvement",
+			"Description" : "Display hidden objects of some type"
+		},
+		"Subatomic Symphysis": {
+			"Id" : "Subatomic Symphysis",
+			"Name" : "Subatomic Symphysis",
+			"Type" : "Improvement",
+			"Description" : "Halves cost of Buildings"
+		},
+		"Space Ports": {
+			"Id" : "Space Ports",
+			"Name" : "Space Ports",
+			"Type" : "Improvement",
+			"Description" : "Increase Max Support"
+		},
+		"Stem Replication": {
+			"Id" : "Stem Replication",
+			"Name" : "Stem Replication",
+			"Type" : "Improvement",
+			"Description" : "Double food production"
+		},
+		"Trading Lines": {
+			"Id" : "Trading Lines",
+			"Name" : "Trading Lines",
+			"Type" : "Improvement",
+			"Description" : "Halves cost of support"
+		},
+		"Mecha Troops": {
+			"Id" : "Mecha Troops",
+			"Name" : "Mecha Troops",
+			"Type" : "Improvement",
+			"Description" : "Halves colonization cost"
+		},
+		"Bioadaptation": {
+			"Id" : "Bioadaptation",
+			"Name" : "Bioadaptation",
+			"Type" : "Improvement",
+			"Description" : "Lower Transformation Cost"
+		},
+		"Resistance": {
+			"Id" : "Resistance",
+			"Name" : "Resistance",
+			"Type" : "Improvement",
+			"Description" : "Doubles colonization cost for enemies"
+		},
+		"Swarms": {
+			"Id" : "Swarms",
+			"Name" : "Swarms",
+			"Type" : "Improvement",
+			"Description" : "Improved Small Ships - more HP"
+		},
+		"Reinforced Hulls": {
+			"Id" : "Reinforced Hulls",
+			"Name" : "Reinforced Hulls",
+			"Type" : "Improvement",
+			"Description" : "Improved Medium Ships- more Attack"
+		},
+		"Lifespan Augmentation": {
+			"Id" : "Lifespan Augmentation",
+			"Name" : "Lifespan Augmentation",
+			"Type" : "Improvement",
+			"Description" : "Add new City in every planet where there is City"
+		},
+		"Warp Gate Expansion": {
+			"Id" : "Warp Gate Expansion",
+			"Name" : "Warp Gate Expansion",
+			"Type" : "Improvement",
+			"Description" : "Increases maximum units by 1"
+		},
+		"Saprotrophism": {
+			"Id" : "Saprotrophism",
+			"Name" : "Saprotrophism",
+			"Type" : "Improvement",
+			"Description" : "Ability to deconstruct buildings into Plants (or original terrain?) - or transform building as Terrains?"
+		}	}
+	"Transformations": {
+		"Encroaching": {
+			"Id" : "Encroaching",
+			"Name" : "Encroaching",
+			"From" : "City",
+			"To" : "Plants"
+		},
+		"Genophage": {
+			"Id" : "Genophage",
+			"Name" : "Genophage",
+			"From" : "Xeno",
+			"To" : "Plants"
+		},
+		"Hydrosphere Sowing": {
+			"Id" : "Hydrosphere Sowing",
+			"Name" : "Hydrosphere Sowing",
+			"From" : "Water",
+			"To" : "Plants"
+		},
+		"Urbanization": {
+			"Id" : "Urbanization",
+			"Name" : "Urbanization",
+			"From" : "Plants",
+			"To" : "City"
+		},
+		"Mechanization": {
+			"Id" : "Mechanization",
+			"Name" : "Industrialization",
+			"From" : "Minerals",
+			"To" : "Industrial"
+		},
+		"Ignition": {
+			"Id" : "Ignition",
+			"Name" : "Ignition",
+			"From" : "Barren",
+			"To" : "Lava"
+		},
+		"Deconstruction": {
+			"Id" : "Deconstruction",
+			"Name" : "Deconstruction",
+			"From" : "Industrial",
+			"To" : "Barren"
+		},
+		"Industrialization": {
+			"Id" : "Industrialization",
+			"Name" : "Industrialization",
+			"From" : "City",
+			"To" : "Industrial"
+		},
+		"Assimilation": {
+			"Id" : "Assimilation",
+			"Name" : "Assimilation",
+			"From" : "Xeno",
+			"To" : "City"
+		},
+		"Freezing": {
+			"Id" : "Freezing",
+			"Name" : "Freezing",
+			"From" : "Gas",
+			"To" : "Ice"
+		},
+		"Condensing": {
+			"Id" : "Condensing",
+			"Name" : "Condensing",
+			"From" : "Lava",
+			"To" : "Mineral"
+		},
+		"Melting": {
+			"Id" : "Melting",
+			"Name" : "Melting",
+			"From" : "Ice",
+			"To" : "Water"
+		}	}
+	"Inventions": {
+		"Mongers": {
+			"Id" : "Mongers",
+			"Type" : "Mongers",
+			"Cost" : 0,
+			"X" : -1,
+			"Y" : -1
+		},
+		"Biota": {
+			"Id" : "Biota",
+			"Type" : "Biota",
+			"Cost" : 0,
+			"X" : -1,
+			"Y" : -1
+		},
+		"Witnesses": {
+			"Id" : "Witnesses",
+			"Type" : "Witnesses",
+			"Cost" : 0,
+			"X" : -1,
+			"Y" : -1
+		},
+		"Trespassers": {
+			"Id" : "Trespassers",
+			"Type" : "Trespassers",
+			"Cost" : 0,
+			"X" : -1,
+			"Y" : -1
+		},
+		"Fragtals": {
+			"Id" : "Fragtals",
+			"Type" : "Fragtals",
+			"Cost" : 0,
+			"X" : -1,
+			"Y" : -1
+		},
+		"Exohabitation": {
+			"Id" : "Exohabitation",
+			"Type" : "Energy",
+			"Cost" : 1,
+			"X" : 0,
+			"Y" : 0
+		},
+		"Interstellar Trading": {
+			"Id" : "Interstellar Trading",
+			"Type" : "Technology",
+			"Cost" : 2,
+			"X" : 1,
+			"Y" : 0
+		},
+		"Thermion Binding": {
+			"Id" : "Thermion Binding",
+			"Type" : "Credits",
+			"Cost" : 3,
+			"X" : 2,
+			"Y" : 0
+		},
+		"Harmonic AI": {
+			"Id" : "Harmonic AI",
+			"Type" : "Energy",
+			"Cost" : 5,
+			"X" : 3,
+			"Y" : 0
+		},
+		"Nanoassembly": {
+			"Id" : "Nanoassembly",
+			"Type" : "Technology",
+			"Cost" : 8,
+			"X" : 4,
+			"Y" : 0
+		},
+		"Xenology": {
+			"Id" : "Xenology",
+			"Type" : "Credits",
+			"Cost" : 2,
+			"X" : 0,
+			"Y" : 1
+		},
+		"Universal Exchange": {
+			"Id" : "Universal Exchange",
+			"Type" : "Energy",
+			"Cost" : 4,
+			"X" : 1,
+			"Y" : 1
+		},
+		"Orbital Mechanics": {
+			"Id" : "Orbital Mechanics",
+			"Type" : "Technology",
+			"Cost" : 6,
+			"X" : 2,
+			"Y" : 1
+		},
+		"Magmallurgy": {
+			"Id" : "Magmallurgy",
+			"Type" : "Credits",
+			"Cost" : 10,
+			"X" : 3,
+			"Y" : 1
+		},
+		"Magnetic Beam": {
+			"Id" : "Magnetic Beam",
+			"Type" : "Energy",
+			"Cost" : 16,
+			"X" : 4,
+			"Y" : 1
+		},
+		"Xeno Unity": {
+			"Id" : "Xeno Unity",
+			"Type" : "Technology",
+			"Cost" : 3,
+			"X" : 0,
+			"Y" : 2
+		},
+		"Conflict Theory": {
+			"Id" : "Conflict Theory",
+			"Type" : "Credits",
+			"Cost" : 6,
+			"X" : 1,
+			"Y" : 2
+		},
+		"Pressure Tensors": {
+			"Id" : "Pressure Tensors",
+			"Type" : "Energy",
+			"Cost" : 9,
+			"X" : 2,
+			"Y" : 2
+		},
+		"Shockwave Symmetry": {
+			"Id" : "Shockwave Symmetry",
+			"Type" : "Technology",
+			"Cost" : 15,
+			"X" : 3,
+			"Y" : 2
+		},
+		"Gravity Control": {
+			"Id" : "Gravity Control",
+			"Type" : "Credits",
+			"Cost" : 24,
+			"X" : 4,
+			"Y" : 2
+		},
+		"Parasymbiosis": {
+			"Id" : "Parasymbiosis",
+			"Type" : "Energy",
+			"Cost" : 5,
+			"X" : 0,
+			"Y" : 3
+		},
+		"Organic Harnessing": {
+			"Id" : "Organic Harnessing",
+			"Type" : "Technology",
+			"Cost" : 10,
+			"X" : 1,
+			"Y" : 3
+		},
+		"Isothermal Suction": {
+			"Id" : "Isothermal Suction",
+			"Type" : "Credits",
+			"Cost" : 15,
+			"X" : 2,
+			"Y" : 3
+		},
+		"Photon Interference": {
+			"Id" : "Photon Interference",
+			"Type" : "Energy",
+			"Cost" : 25,
+			"X" : 3,
+			"Y" : 3
+		},
+		"White Hole Physics": {
+			"Id" : "White Hole Physics",
+			"Type" : "Technology",
+			"Cost" : 40,
+			"X" : 4,
+			"Y" : 3
+		},
+		"Genetransformation": {
+			"Id" : "Genetransformation",
+			"Type" : "Credits",
+			"Cost" : 8,
+			"X" : 0,
+			"Y" : 4
+		},
+		"Biosynthesis": {
+			"Id" : "Biosynthesis",
+			"Type" : "Energy",
+			"Cost" : 16,
+			"X" : 1,
+			"Y" : 4
+		},
+		"Quantum Recomposition": {
+			"Id" : "Quantum Recomposition",
+			"Type" : "Technology",
+			"Cost" : 24,
+			"X" : 2,
+			"Y" : 4
+		},
+		"Subatomic Fusion": {
+			"Id" : "Subatomic Fusion",
+			"Type" : "Credits",
+			"Cost" : 40,
+			"X" : 3,
+			"Y" : 4
+		},
+		"Aneutronic Linkage": {
+			"Id" : "Aneutronic Linkage",
+			"Type" : "Energy",
+			"Cost" : 64,
+			"X" : 4,
+			"Y" : 4
+		}	}
+	"Technologies": {
+		"Algae Grid": {
+			"Id" : "Algae Grid",
+			"Invention" : "Initial",
+			"Type" : "Building"
+		},
+		"Settlement": {
+			"Id" : "Settlement",
+			"Invention" : "Initial",
+			"Type" : "Building"
+		},
+		"Mine": {
+			"Id" : "Mine",
+			"Invention" : "Initial",
+			"Type" : "Building"
+		},
+		"Colony": {
+			"Id" : "Colony",
+			"Invention" : "Initial",
+			"Type" : "Building"
+		},
+		"Factories": {
+			"Id" : "Factories",
+			"Invention" : "Initial",
+			"Type" : "Building"
+		},
+		"Housing": {
+			"Id" : "Housing",
+			"Invention" : "Initial",
+			"Type" : "Building"
+		},
+		"Farm": {
+			"Id" : "Farm",
+			"Invention" : "Initial",
+			"Type" : "Building"
+		},
+		"Power Plant": {
+			"Id" : "Power Plant",
+			"Invention" : "Initial",
+			"Type" : "Building"
+		},
+		"Deuterium Reactor": {
+			"Id" : "Deuterium Reactor",
+			"Invention" : "Aneutronic Linkage",
+			"Type" : "Building"
+		},
+		"Xeno Market": {
+			"Id" : "Xeno Market",
+			"Invention" : "Xenology",
+			"Type" : "Building"
+		},
+		"Robo Farm": {
+			"Id" : "Robo Farm",
+			"Invention" : "Harmonic AI",
+			"Type" : "Building"
+		},
+		"Core Drilling": {
+			"Id" : "Core Drilling",
+			"Invention" : "Pressure Tensors",
+			"Type" : "Building"
+		},
+		"Sonic Mine": {
+			"Id" : "Sonic Mine",
+			"Invention" : "Shockwave Symmetry",
+			"Type" : "Building"
+		},
+		"Nano Factory": {
+			"Id" : "Nano Factory",
+			"Invention" : "Nanoassembly",
+			"Type" : "Building"
+		},
+		"Trading post": {
+			"Id" : "Trading post",
+			"Invention" : "Interstellar Trading",
+			"Type" : "Building"
+		},
+		"Dyson Swarm": {
+			"Id" : "Dyson Swarm",
+			"Invention" : "Orbital Mechanics",
+			"Type" : "Building"
+		},
+		"Foundry": {
+			"Id" : "Foundry",
+			"Invention" : "Magmallurgy",
+			"Type" : "Building"
+		},
+		"Underground Outpost": {
+			"Id" : "Underground Outpost",
+			"Invention" : "Controlled Fracking",
+			"Type" : "Building"
+		},
+		"Magma Mine": {
+			"Id" : "Magma Mine",
+			"Invention" : "Isothermal Suction",
+			"Type" : "Building"
+		},
+		"Melt Mine": {
+			"Id" : "Melt Mine",
+			"Invention" : "Aneutronic Fusion",
+			"Type" : "Building"
+		},
+		"Genophage": {
+			"Id" : "Genophage",
+			"Invention" : "Genetransformation",
+			"Type" : "Transformation"
+		},
+		"Urbanization": {
+			"Id" : "Urbanization",
+			"Invention" : "Exohabitation",
+			"Type" : "Transformation"
+		},
+		"Mechanization": {
+			"Id" : "Mechanization",
+			"Invention" : "Nanoassembly",
+			"Type" : "Transformation"
+		},
+		"Ignition": {
+			"Id" : "Ignition",
+			"Invention" : "White Hole Physics",
+			"Type" : "Transformation"
+		},
+		"Deconstruction": {
+			"Id" : "Deconstruction",
+			"Invention" : "Magnetic Beam",
+			"Type" : "Transformation"
+		},
+		"Industrialization": {
+			"Id" : "Industrialization",
+			"Invention" : "Initial",
+			"Type" : "Transformation"
+		},
+		"Assimilation": {
+			"Id" : "Assimilation",
+			"Invention" : "Xeno Unity",
+			"Type" : "Transformation"
+		},
+		"Freezing": {
+			"Id" : "Freezing",
+			"Invention" : "Photon Interference",
+			"Type" : "Transformation"
+		},
+		"Encroaching": {
+			"Id" : "Encroaching",
+			"Invention" : "Parasymbiosis",
+			"Type" : "Transformation"
+		},
+		"Condensing": {
+			"Id" : "Condensing",
+			"Invention" : "Gravity Control",
+			"Type" : "Transformation"
+		},
+		"Melting": {
+			"Id" : "Melting",
+			"Invention" : "Thermion Binding",
+			"Type" : "Transformation"
+		},
+		"Hydrosphere Sowing": {
+			"Id" : "Hydrosphere Sowing",
+			"Invention" : "Universal Exchange",
+			"Type" : "Transformation"
+		},
+		"Interstellar Travel": {
+			"Id" : "Interstellar Travel",
+			"Invention" : "Initial",
+			"Type" : "Improvement"
+		},
+		"Far Scanners": {
+			"Id" : "Far Scanners",
+			"Invention" : "Shockwave Symmetry",
+			"Type" : "Improvement"
+		},
+		"Improved Engines": {
+			"Id" : "Improved Engines",
+			"Invention" : "Spin Propulsor",
+			"Type" : "Improvement"
+		},
+		"Preon Discovery": {
+			"Id" : "Preon Discovery",
+			"Invention" : "Equidimensional Field",
+			"Type" : "Improvement"
+		},
+		"Subatomic Symphysis": {
+			"Id" : "Subatomic Symphysis",
+			"Invention" : "Subatomic Assembly",
+			"Type" : "Improvement"
+		},
+		"Space Ports": {
+			"Id" : "Space Ports",
+			"Invention" : "Universal Exchange",
+			"Type" : "Improvement"
+		},
+		"Stem Replication": {
+			"Id" : "Stem Replication",
+			"Invention" : "Syntethic Biology",
+			"Type" : "Improvement"
+		},
+		"Trading Lines": {
+			"Id" : "Trading Lines",
+			"Invention" : "Exohabitation",
+			"Type" : "Improvement"
+		},
+		"Mecha Troops": {
+			"Id" : "Mecha Troops",
+			"Invention" : "Biocybernization",
+			"Type" : "Improvement"
+		},
+		"Bioadaptation": {
+			"Id" : "Bioadaptation",
+			"Invention" : "Parasymbiosis",
+			"Type" : "Improvement"
+		},
+		"Resistance": {
+			"Id" : "Resistance",
+			"Invention" : "Conflict Theory",
+			"Type" : "Improvement"
+		},
+		"Swarms": {
+			"Id" : "Swarms",
+			"Invention" : "Harmonic AI",
+			"Type" : "Improvement"
+		},
+		"Reinforced Hulls": {
+			"Id" : "Reinforced Hulls",
+			"Invention" : "Metacrystalization",
+			"Type" : "Improvement"
+		},
+		"Lifespan Augmentation": {
+			"Id" : "Lifespan Augmentation",
+			"Invention" : "Organic Harnessing",
+			"Type" : "Improvement"
+		},
+		"Saprotrophism": {
+			"Id" : "Saprotrophism",
+			"Invention" : "Genetransformation",
+			"Type" : "Improvement"
+		},
+		"Privateer": {
+			"Id" : "Privateer",
+			"Invention" : "Exohabitation",
+			"Type" : "Unit"
+		},
+		"Keeper": {
+			"Id" : "Keeper",
+			"Invention" : "Interstellar Trading",
+			"Type" : "Unit"
+		},
+		"Bomber ": {
+			"Id" : "Bomber ",
+			"Invention" : "Orbital Mechanics",
+			"Type" : "Unit"
+		},
+		"Microt(s)": {
+			"Id" : "Microt(s)",
+			"Invention" : "Nanoassembly",
+			"Type" : "Unit"
+		},
+		"Synchro": {
+			"Id" : "Synchro",
+			"Invention" : "Harmonic AI",
+			"Type" : "Unit"
+		},
+		"Watcher": {
+			"Id" : "Watcher",
+			"Invention" : "Xenology",
+			"Type" : "Unit"
+		},
+		"Judge": {
+			"Id" : "Judge",
+			"Invention" : "Conflict Theory",
+			"Type" : "Unit"
+		},
+		"Flash": {
+			"Id" : "Flash",
+			"Invention" : "Photon Interference",
+			"Type" : "Unit"
+		},
+		"Metalive": {
+			"Id" : "Metalive",
+			"Invention" : "Magmallurgy",
+			"Type" : "Unit"
+		},
+		"Ferropolar / Diamag": {
+			"Id" : "Ferropolar / Diamag",
+			"Invention" : "Magnetic Beam",
+			"Type" : "Unit"
+		},
+		"Guardian": {
+			"Id" : "Guardian",
+			"Invention" : "Xeno Unity",
+			"Type" : "Unit"
+		},
+		"Broker": {
+			"Id" : "Broker",
+			"Invention" : "Universal Exchange",
+			"Type" : "Unit"
+		},
+		"Prospector": {
+			"Id" : "Prospector",
+			"Invention" : "Pressure Tensors",
+			"Type" : "Unit"
+		},
+		"Hammer (Slammer?)": {
+			"Id" : "Hammer (Slammer?)",
+			"Invention" : "Shockwave Symmetry",
+			"Type" : "Unit"
+		},
+		"Titan": {
+			"Id" : "Titan",
+			"Invention" : "Gravity Control",
+			"Type" : "Unit"
+		},
+		"Saprobiont": {
+			"Id" : "Saprobiont",
+			"Invention" : "Parasymbiosis",
+			"Type" : "Unit"
+		},
+		"Overlord": {
+			"Id" : "Overlord",
+			"Invention" : "Organic Harnessing",
+			"Type" : "Unit"
+		},
+		"Phoenix": {
+			"Id" : "Phoenix",
+			"Invention" : "Isothermal Suction",
+			"Type" : "Unit"
+		},
+		"Cyclone": {
+			"Id" : "Cyclone",
+			"Invention" : "Thermion Binding",
+			"Type" : "Unit"
+		},
+		"Pilgrim": {
+			"Id" : "Pilgrim",
+			"Invention" : "White Hole Physics",
+			"Type" : "Unit"
+		},
+		"Pathogen": {
+			"Id" : "Pathogen",
+			"Invention" : "Genetransformation",
+			"Type" : "Unit"
+		},
+		"Seed": {
+			"Id" : "Seed",
+			"Invention" : "Biosynthesis",
+			"Type" : "Unit"
+		},
+		"Shapeshifter": {
+			"Id" : "Shapeshifter",
+			"Invention" : "Quantum Recomposition",
+			"Type" : "Unit"
+		},
+		"Spinner": {
+			"Id" : "Spinner",
+			"Invention" : "Subatomic Fusion",
+			"Type" : "Unit"
+		},
+		"Drifter": {
+			"Id" : "Drifter",
+			"Invention" : "Aneutronic Linkage",
+			"Type" : "Unit"
+		}	}
+}

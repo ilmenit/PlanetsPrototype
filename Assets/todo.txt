@@ -1,0 +1,27 @@
+﻿TODO
+- fleet building as available commands
+- acquire planet costs 4 energy instead of 1, because of influence spread?
+- next-turn handling as a state so entering/exiting will work
+- next-turn should be available command
+- In map generation there should be always at least one near Space Object to supply something and one visible to drive exploration
+
+AI
+Evaluation
+- if can build main resource, do it
+- if need to build main resource, choose then one you produce less
+
+
+DONE:
+- Add handling of terrain transformations
+- Create Command (Action) concept and Available Commands - for Command pattern where everything that player can do will be a Command
+-- Command concepts should highlight available options in case of nested menus
+---- Game -> Map -> Planet -> Building -> Supporting
+---- Game -> Research -> Invention
+-- Could be available but not affordable
+- research options as available commands
+! fix - after execution of command always fillavailablecommands(), it is influencing what is available?
+! fix - GetAvailable should include checking which cell
+- finish moving transformation to commands
+- finish moving research to commands
+! fix - Multiplier in production vs supply line - e.g. housing. Supply line takes all output now.
+- research button should change color according to availability
